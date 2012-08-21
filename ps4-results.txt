@@ -1,0 +1,7 @@
+=== Classifying testing data using training data ===
+Error Column: 27
+Error Column: 34
+Testing Errors: 2
+=== Classifying training data using training data ===
+Error Column: 29
+Training Errors: 1
